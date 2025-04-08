@@ -1,2 +1,3 @@
-# image_classification--clothing
-Image classification example using Pytorch Lightning
+# Clothing classification using images
+
+Classification example using Pytorch Lightning on images of clothing.
